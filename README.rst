@@ -11,10 +11,14 @@ Burrow: Declarative Nested Requests
 
 There's no need to clutter the code with conditional responses - this library aims to allow the user to configure nested requests instead of including a lot of conditional logic
 
+Be warned
+---------
+**This is alpha software and should not be trusted to work.**
+
 * Free software: BSD license
 * Documentation: https://burrow.readthedocs.org.
 
 Features
 --------
 
-* TODO
+* (Almost :wink:) handles nesting for POST requests
